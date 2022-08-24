@@ -1,6 +1,14 @@
+body {
+   background: #F08080
+    }	
 h1 {
-	text-align: center;
+	text-align: center; color: #DC143C	;
 }
+
+P {
+	text-align: left; color: #8B008B
+}
+
 #banner {
-	width: 100%;
+	width: 60%;
 }
